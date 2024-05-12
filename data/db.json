@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Computer",
+      "price": 5600,
+      "checked": true
+    },
+    {
+      "id": "2",
+      "name": "Play",
+      "price": 12600,
+      "checked": false
+    },
+    {
+      "id": "3",
+      "name": "Tablette",
+      "price": 1000,
+      "checked": false
+    },
+    {
+      "id": "4",
+      "name": "smart-phone",
+      "price": 4000,
+      "checked": true
+    },
+    {
+      "id": "5",
+      "name": "Printer",
+      "price": 7600,
+      "checked": false
+    },
+    {
+      "id": "6",
+      "name": "Phone",
+      "price": 1200,
+      "checked": false
+    },
+    {
+      "id": "7",
+      "name": "Redmi",
+      "price": "4000",
+      "checked": true
+    }
+  ]
+}
